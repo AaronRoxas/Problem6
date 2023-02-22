@@ -43,16 +43,10 @@ public class Problem6
             }
             displaySum+="\n";
         }
-        
-        
-        
-        
-        
-        
+
         JOptionPane.showMessageDialog(null,"Values inside Array A: \n" + displayA
         +"\n Values inside Array B: \n" + displayB);
         JOptionPane.showMessageDialog(null,"Sum numbers of Array A and Array B: \n" + displaySum);
         
-    }
-    
+    } 
 }
